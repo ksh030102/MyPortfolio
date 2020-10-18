@@ -16,12 +16,12 @@ p.title {
 }
 .intro {
   margin-top: 80px;
-  background-color: aqua;
+  background-color: #7579e7;
   width: 100%;
   height: 200px;
 }
 .intro img {
-  background-color: blueviolet;
+  background-color: #9ab3f5;
   display: block;
   width: 250px;
   height: 250px;
@@ -35,6 +35,8 @@ p.title {
   height: 270px;
   border: 2px solid black;
   border-radius: 5px;
+  float: left;
+  margin-left: 25px;
 }
 .talent {
   margin: 30px;
@@ -49,7 +51,7 @@ p.title {
 .t-c .gauge {
   width: 500px;
   height: 30px;
-  background-color: brown;
+  background-color: #a3d8f4;
   position: absolute;
   left: 130px;
   top: 45px;
@@ -57,7 +59,7 @@ p.title {
 .t-web .gauge {
   width: 500px;
   height: 30px;
-  background-color: brown;
+  background-color: #a3d8f4;
   position: absolute;
   left: 130px;
   top: 145px;
@@ -65,7 +67,7 @@ p.title {
 .t-python .gauge {
   width: 500px;
   height: 30px;
-  background-color: brown;
+  background-color: #a3d8f4;
   position: absolute;
   left: 130px;
   top: 245px;
@@ -73,7 +75,7 @@ p.title {
 .t-java .gauge {
   width: 500px;
   height: 30px;
-  background-color: brown;
+  background-color: #a3d8f4;
   position: absolute;
   left: 130px;
   top: 345px;
