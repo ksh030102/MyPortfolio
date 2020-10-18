@@ -36,3 +36,45 @@ p.title {
   border: 2px solid black;
   border-radius: 5px;
 }
+.talent {
+  margin: 30px;
+  position: relative;
+}
+.talent img {
+  width: 120px;
+  height: 100px;
+  position: relative;
+  display: block;
+}
+.t-c .gauge {
+  width: 500px;
+  height: 30px;
+  background-color: brown;
+  position: absolute;
+  left: 130px;
+  top: 45px;
+}
+.t-web .gauge {
+  width: 500px;
+  height: 30px;
+  background-color: brown;
+  position: absolute;
+  left: 130px;
+  top: 145px;
+}
+.t-python .gauge {
+  width: 500px;
+  height: 30px;
+  background-color: brown;
+  position: absolute;
+  left: 130px;
+  top: 245px;
+}
+.t-java .gauge {
+  width: 500px;
+  height: 30px;
+  background-color: brown;
+  position: absolute;
+  left: 130px;
+  top: 345px;
+}
